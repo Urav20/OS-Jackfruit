@@ -96,15 +96,15 @@ sudo ./engine stop beta
 
 ## 📸 Demo with Screenshots
 1. Multi-container supervision
-   <img width="1270" height="646" alt="image" src="https://github.com/user-attachments/assets/4f5c73a5-e9e8-4fe6-8ab3-09a635969cd4" />
-Two containers running concurrently under a single supervisor process
+   <img width="1536" height="1024" alt="os1" src="https://github.com/user-attachments/assets/c982e2e2-7cff-4d91-9647-714eb1a931ff" /> 
+   Two containers running concurrently under a single supervisor process
 
 2. Metadata tracking (ps)
-   <img width="899" height="615" alt="image" src="https://github.com/user-attachments/assets/b04dfc4e-06c6-4a2a-9e7a-b507bbb7c1a4" />
+   <img width="1536" height="1024" alt="os2" src="https://github.com/user-attachments/assets/aae9ffc8-7cfe-46ce-ad99-4959212064b5" />
    Supervisor maintains metadata including container ID, PID, and state
    
 3. Bounded-buffer logging
-   <img width="968" height="654" alt="image" src="https://github.com/user-attachments/assets/21b7e9a8-0c1d-4044-8481-e62b5406de88" />
+   <img width="827" height="565" alt="WhatsApp Image 2026-04-15 at 12 06 27" src="https://github.com/user-attachments/assets/96bd0b2a-a478-4b6e-9c3b-b5e9e860a39e" />
    Container output captured through bounded-buffer logging pipeline
 
 4. CLI + IPC
